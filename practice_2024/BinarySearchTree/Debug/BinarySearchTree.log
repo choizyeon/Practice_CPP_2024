@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\master\Desktop\practice_2024\BinarySearchTree\main.cpp(7,21): warning C4101: 'pair' :참조되지 않은 지역 변수입니다.
+  BinarySearchTree.vcxproj -> C:\Users\master\Desktop\practice_2024\Debug\BinarySearchTree.exe
